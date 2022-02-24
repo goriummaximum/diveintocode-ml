@@ -1,0 +1,843 @@
+[33mcommit a731a4f59870551015b1616970fb817038861225[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: goriummaximum <long.hothiengo@hcmut.edu.vn>
+Date:   Fri Feb 25 01:06:37 2022 +0700
+
+    initial commit
+
+[33mcommit 9f3309904d2bd79a5999e93966438c145540ec4c[m
+Author: goriummaximum <long.hothiengo@hcmut.edu.vn>
+Date:   Fri Feb 25 00:53:37 2022 +0700
+
+    inital commit
+
+[33mcommit 7cd702742125dca48480e5c1fb57e1b8448b92a3[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Tue Feb 1 19:12:24 2022 +0700
+
+    add prepare model
+
+[33mcommit f7a28e2113c2c8f513828ef0a040d30866ac6c11[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Tue Feb 1 01:14:08 2022 +0700
+
+    add prepare_data for YOLO
+
+[33mcommit 196c875c5bd0659227d75dcf628fabdbbd6936a9[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Mon Jan 31 22:19:45 2022 +0700
+
+    update data analysis
+
+[33mcommit 235c3838f70a465fc5e9d8601d2c2460b6ee2a67[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Thu Jan 27 15:55:53 2022 +0700
+
+    update
+
+[33mcommit eeee3e78aa74ccb600308f4e0b5a78a85c4e1475[m
+Merge: d77133d 44b80ff
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Thu Jan 27 15:44:27 2022 +0700
+
+    Merge branch 'master' of github.com:goriummaximum/diveintocode-ml
+
+[33mcommit d77133d5c4c98ab48b4632c7b435dc32e67ef76e[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Thu Jan 27 15:44:14 2022 +0700
+
+    initialize-grad-ass
+
+[33mcommit 44b80ff9bc31af56ec0340c24d6bf362f96e93ff[m
+Author: Thien Go <58649187+goriummaximum@users.noreply.github.com>
+Date:   Sat Jan 22 00:01:24 2022 +0700
+
+    Update README.md
+
+[33mcommit 604270ec76f8b69d462a43cc6bf50be142083741[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Fri Jan 21 22:40:15 2022 +0700
+
+    add colab link to sprint24
+
+[33mcommit 1a7e74c7635a10d35e7d8d34ea34f7c8f311cfea[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Fri Jan 21 22:38:21 2022 +0700
+
+    add sprint24
+
+[33mcommit 775d8956cfb5c449be88330280ed8302e12a74e7[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Thu Jan 20 23:19:10 2022 +0700
+
+    add sprint23
+
+[33mcommit 4debf53dc91790da7be18446c099a2c094fdae7d[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Tue Jan 18 01:53:44 2022 +0700
+
+    add sprint22-rnn
+
+[33mcommit e38521e4204197fe891908f814c118eb45903408[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Tue Jan 18 00:57:37 2022 +0700
+
+    add sprint21
+
+[33mcommit a3a2a358c8167640e8d68b23f322c3ca682d3381[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Sat Jan 15 02:01:54 2022 +0700
+
+    add sprint20
+
+[33mcommit 88a1648ea63d711166db1c49089cc8ec3dbcfc9b[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Sat Jan 15 01:57:07 2022 +0700
+
+    done sprint20
+
+[33mcommit fdc237e574d629e90777a08f0efc0e2285e6ed6e[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Thu Jan 13 18:52:22 2022 +0700
+
+    update
+
+[33mcommit 55018f216c338887b5285c6178987a9ab66c80a2[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Thu Jan 13 15:37:10 2022 +0700
+
+    add colab link to sprint18
+
+[33mcommit 356a1a34d382c8c814c7b5766d10b6cf4692b111[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Mon Dec 13 22:13:37 2021 +0700
+
+    done sprint19
+
+[33mcommit d649897f68fe16ce5245e2168934cbb9616b0a8c[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Sun Dec 12 15:40:09 2021 +0700
+
+    done sprint18
+
+[33mcommit 8032606128486bc732fa1a5efa6af787cf790683[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Fri Dec 3 12:53:42 2021 +0700
+
+    done-sprint17
+
+[33mcommit 74e1dec9a800be6c002e90e1e238bdd821192a5b[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Fri Dec 3 12:49:37 2021 +0700
+
+    done-sprint17
+
+[33mcommit d4a328d7c33b935c329303641b0f2b8234223f79[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Wed Dec 1 00:46:23 2021 +0700
+
+    update
+
+[33mcommit ed5b57ac4d9d71a7ae86d7030d4c9d24fe36127c[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Mon Nov 29 23:29:54 2021 +0700
+
+    done-sprint15
+
+[33mcommit 0e633faa9c35f859da74220be98a5bc0c28b580f[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Fri Sep 24 02:16:04 2021 +0700
+
+    add sprint14
+
+[33mcommit 429aa74dbbc5ea6426fbb3478d008f1112b11417[m
+Merge: c7c19f0 2480aa2
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Sun Sep 5 22:18:40 2021 +0700
+
+    Merge branch 'master' of github.com:goriummaximum/diveintocode-ml
+
+[33mcommit c7c19f0d67842364eabaea1491ba7ae93c4fee69[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Sun Sep 5 22:18:27 2021 +0700
+
+    update-sprint13-cnn
+
+[33mcommit 2480aa255e123e87086aa379fc56c86ace711e95[m
+Author: Thien Go <58649187+goriummaximum@users.noreply.github.com>
+Date:   Sun Sep 5 22:09:28 2021 +0700
+
+    Delete test.txt
+
+[33mcommit 989bc6ea5e0338347c146c818cbded57ed3d74d4[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Sun Sep 5 22:06:45 2021 +0700
+
+    update-sprint13-with-cnn
+
+[33mcommit df9694426f5ce2d458b7309e7bf75aac20b5074f[m
+Merge: 93bc84f 1e518e2
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Fri Sep 3 20:57:27 2021 +0700
+
+    Merge branch 'master' of github.com:goriummaximum/diveintocode-ml
+
+[33mcommit 93bc84f5719aa0c66f3211fbba20b22c6aa15cc0[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Fri Sep 3 20:57:02 2021 +0700
+
+    done-sprint13
+
+[33mcommit 1e518e25f4b7b6e72deda16ae617bd034764e744[m
+Author: Thien Go <58649187+goriummaximum@users.noreply.github.com>
+Date:   Thu Aug 5 14:59:40 2021 +0700
+
+    Update README.md
+
+[33mcommit 1a4dd7ac95629ed76ef9bbd58c897bd07868bac5[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Thu Jul 15 15:13:14 2021 +0700
+
+    done-cnn2d
+
+[33mcommit 90bdccae408ed3acd649aceb844868fcda402f37[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Wed Jul 14 03:21:21 2021 +0700
+
+    update
+
+[33mcommit 749d1622bdeda6779e9c992c97b0623e14695dd0[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Mon Jul 5 16:00:02 2021 +0700
+
+    update
+
+[33mcommit 1d2e0c750354e6551d7d3974e46b87c0c2c579c7[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Mon Jul 5 03:44:27 2021 +0700
+
+    update
+
+[33mcommit 6731612b8444c61724c79748f2992e921950fc82[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Mon Jul 5 02:34:27 2021 +0700
+
+    update-sprint11
+
+[33mcommit 64f7cb3252ded52e4ba736c77458f90f61891d97[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Sun Jul 4 01:20:52 2021 +0700
+
+    update
+
+[33mcommit 31acefd0109e7ff6f0596fc2742a5f88800927ed[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Wed Jun 30 20:51:45 2021 +0700
+
+    done-sprint10
+
+[33mcommit 1e703290790b227cc87b04c9f6403dbe21b6e2f4[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Wed Jun 30 20:47:18 2021 +0700
+
+    done-sprint10
+
+[33mcommit bc39587da604620efecbc5ae60268d571fc48db4[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Tue Jun 29 22:49:13 2021 +0700
+
+    update
+
+[33mcommit 28255500d07c834a704d4a9d9804bafa9621dc63[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Tue Jun 29 22:47:15 2021 +0700
+
+    update
+
+[33mcommit 9ee97b456ce165e7b515981204e624552610eb92[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Mon Jun 28 23:46:21 2021 +0700
+
+    updat
+
+[33mcommit ca1f1935a1485c73fb4ee7b0c149825de0847631[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Mon Jun 28 18:30:22 2021 +0700
+
+    update
+
+[33mcommit 142ad2bebefdad94ac76e3d090c9f9c8ed252f73[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Sun Jun 27 13:24:37 2021 +0700
+
+    update
+
+[33mcommit 7c7cbf60c0a3520c9ac68ac095505c98627652a4[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Sun Jun 27 03:32:37 2021 +0700
+
+    update
+
+[33mcommit 80cc4156eaa7cf42b00bbb9277b348410b5409c7[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Sun Jun 27 02:11:50 2021 +0700
+
+    update
+
+[33mcommit 862f4b84e51029299787f29cb32f7ab0a05bf9fb[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Sat Jun 26 22:15:57 2021 +0700
+
+    update
+
+[33mcommit d240e7bcd8b64880656e7580a0516a854421d8fe[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Tue Jun 22 21:58:08 2021 +0700
+
+    update
+
+[33mcommit e7a9d902f161944c6ed3e46dbfbb48536f1ee80a[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Tue Jun 22 21:27:55 2021 +0700
+
+    update
+
+[33mcommit 78af969c7e13a5f1fb58a05d3663196a14ab8ec6[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Tue Jun 22 21:18:21 2021 +0700
+
+    update
+
+[33mcommit 078f467db691a366c9d909a574b541927008ad8d[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Tue Jun 22 00:59:52 2021 +0700
+
+    update
+
+[33mcommit a80ec902620015d274dc9e2c80b6fbb32dabb138[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Mon Jun 21 13:38:42 2021 +0700
+
+    update
+
+[33mcommit 5f9c954700dbac7720a487c043ecdd699a9ec2b8[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Mon Jun 21 04:08:24 2021 +0700
+
+    update
+
+[33mcommit ff7c398572882e72217ab1726b9d19c28397d1d1[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Mon Jun 21 01:09:15 2021 +0700
+
+    update
+
+[33mcommit f62957d6a1ff7be698a553b47a0becb11db463f6[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Sun Jun 20 20:45:38 2021 +0700
+
+    update
+
+[33mcommit 2a4378d95803bf020af0395b93a6c20824fa3526[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Mon Jun 14 00:17:14 2021 +0700
+
+    done-sprint8
+
+[33mcommit f9d9cac87749e4eead256291a5bc6004ed29020e[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Mon Jun 14 00:12:46 2021 +0700
+
+    done-sprint8
+
+[33mcommit 11f7d6854cbdb50e0ceeae80090d93612e0cc043[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Sun Jun 13 23:59:02 2021 +0700
+
+    update
+
+[33mcommit 0742fd26de788522b37c7bb970f73925a8afa856[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Sun Jun 13 22:53:03 2021 +0700
+
+    update
+
+[33mcommit 2142dfd141bdd79c30a952da1bcb4b69f94261fc[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Sun Jun 13 01:13:57 2021 +0700
+
+    update
+
+[33mcommit e100aafbee0f74417bc5deafad4f6c58dbc9b6ed[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Sun Jun 13 01:05:51 2021 +0700
+
+    update
+
+[33mcommit 4e6a94ec4b0bceeac136f3861d1d36d439487e3a[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Sun Jun 13 00:27:30 2021 +0700
+
+    update
+
+[33mcommit cea97c05d00833eb161879a7628b676b54a5c323[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Sun Jun 13 00:05:15 2021 +0700
+
+    update-blending
+
+[33mcommit c19b4b5ab7e7d99744a2adebf81b006382c72924[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Sat Jun 12 23:37:31 2021 +0700
+
+    update-sprint8
+
+[33mcommit 6d8d6c535a74837da9714aa7238a396cff9f7c9a[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Thu Jun 10 14:51:50 2021 +0700
+
+    update
+
+[33mcommit 0cb7916068645ddff13f775dcd387339fd6ce503[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Mon Jun 7 19:59:03 2021 +0700
+
+    update
+
+[33mcommit b66036b78f9cbca62c587f6f19ffee7c914dce9b[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Mon Jun 7 19:52:45 2021 +0700
+
+    update
+
+[33mcommit 3bc52e56717f22c6dd68683b79b70c01bbc75ba1[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Mon Jun 7 14:59:21 2021 +0700
+
+    update-sprint7
+
+[33mcommit 120ed2ca790930f972851de48423ef924a8b75a2[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Mon Jun 7 01:48:46 2021 +0700
+
+    update
+
+[33mcommit fdf68ea4aca9e9466f90fa9c40053183731d0b07[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Sun Jun 6 23:17:55 2021 +0700
+
+    update-sprint7
+
+[33mcommit 90a6af9688d5b2fd46e978498137f740281f4613[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Sun Jun 6 21:58:14 2021 +0700
+
+    update-sprint7
+
+[33mcommit ed77a5b9ebade2b0bb71d6e759c1dfd86771aece[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Sat May 29 23:00:45 2021 +0700
+
+    update
+
+[33mcommit e47fc5fc4768820af51e61be4793fb290f9accd6[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Sat May 29 22:52:41 2021 +0700
+
+    update-sprint6
+
+[33mcommit 43bcdcddb0941521e6bce56c179cc928008bfecc[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Thu May 27 21:38:33 2021 +0700
+
+    update-sprint5
+
+[33mcommit 5dd0187b7361cf164c0bc4327aade4c0546b1aa4[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Thu May 27 21:34:57 2021 +0700
+
+    update-sprint5
+
+[33mcommit 6ad54355335d15053676969b65763dc2f9c80f0c[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Sat May 22 12:19:35 2021 +0700
+
+    update-sprint4
+
+[33mcommit e4cfa6b3def4158733c54ad7dc852aff91b5d195[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Fri May 21 14:02:42 2021 +0700
+
+    update
+
+[33mcommit 02388f4d08fa007438e5e913ae27f3c70bba579d[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Fri May 21 13:54:54 2021 +0700
+
+    update-sprint5
+
+[33mcommit b0dfd07fe734e083c43f4e7bee69ca8b62f36687[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Fri May 21 03:06:27 2021 +0700
+
+    update-sprint5
+
+[33mcommit 7247f9911c93fbb4eb055af95497f29d49da354b[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Tue May 18 22:01:19 2021 +0700
+
+    done-sprint4
+
+[33mcommit e976ca5d06d6b6d7063911942088da7c33dae51c[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Tue May 18 17:32:03 2021 +0700
+
+    update
+
+[33mcommit a32017d584c677603661a8c4075a1c5b19bf8473[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Tue May 18 01:42:00 2021 +0700
+
+    update-sprint4
+
+[33mcommit 174df1c8cc51fbe19f64a91f85156316875599ec[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Mon May 17 23:30:40 2021 +0700
+
+    done-sprint3
+
+[33mcommit ecf3e223afd51e677424d612898e53b022baedb8[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Fri Apr 30 01:05:48 2021 +0700
+
+    update
+
+[33mcommit 2a4330c261210cbdda8457c778cce9d53dc07dc8[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Fri Apr 30 00:57:56 2021 +0700
+
+    update
+
+[33mcommit 1dc006093e3e84538cb2c4bc4089dabcc49e50e2[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Fri Apr 30 00:50:32 2021 +0700
+
+    done-sprint2
+
+[33mcommit b0621b3868d0ecee2d8149392720905c1667f5b9[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Sun Apr 25 21:01:30 2021 +0700
+
+    update
+
+[33mcommit 2c604561238eb7ae6bc460ef5b1dd12c28f37875[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Fri Apr 16 16:59:52 2021 +0700
+
+    improve-house
+
+[33mcommit eaabf1b997d110cbfc51274385845518f86c6882[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Thu Apr 15 21:23:23 2021 +0700
+
+    update
+
+[33mcommit 9c24ebd249f8af37aafd046bdabf16dd7229c13c[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Thu Apr 8 19:56:10 2021 +0700
+
+    update
+
+[33mcommit 82457f64ec28beff5d0573f0143cca5a74c1cf80[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Tue Apr 6 10:50:16 2021 +0700
+
+    update
+
+[33mcommit 03cadc2dbb56f657aa5d6be155f7fe81354807ba[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Tue Apr 6 10:43:11 2021 +0700
+
+    g
+
+[33mcommit 26869be9a447db7c99ee8235709df600f7e70ed2[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Tue Apr 6 10:39:24 2021 +0700
+
+    update
+
+[33mcommit 849211fd52333aa31ac2a5701f0b4d0e2cc5f9b8[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Mon Apr 5 15:51:21 2021 +0700
+
+    update
+
+[33mcommit 58e5226ff1f17b3a97600fa5cdeb78c6af722b39[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Mon Apr 5 10:29:20 2021 +0700
+
+    update
+
+[33mcommit 84d8563e33171b565537f4793eb32dd93efa56df[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Mon Apr 5 01:29:18 2021 +0700
+
+    update
+
+[33mcommit 369f97f687d6fb8713c61b5941daf91619aab50b[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Mon Apr 5 01:24:52 2021 +0700
+
+    update
+
+[33mcommit f84fef437e7be7495cb39a9f730766d1097468ad[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Sat Apr 3 18:59:39 2021 +0700
+
+    finish-ass1
+
+[33mcommit 013d9e92ee8353b2a74e1e1352317562cddfe252[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Sat Apr 3 17:52:21 2021 +0700
+
+    update
+
+[33mcommit ae751af6c6591191eaba38fd91163149cbbd1a0f[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Sat Apr 3 15:52:54 2021 +0700
+
+    update
+
+[33mcommit 3fd8ac5725b189f271199e7076236b3d196a5155[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Sat Apr 3 00:13:37 2021 +0700
+
+    update
+
+[33mcommit 3f79dd76e7cde9a1f0d219089d1c7accc8ad2c6d[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Sat Apr 3 00:12:09 2021 +0700
+
+    update
+
+[33mcommit ad518e654333d9d3df308eec3be99aae96fcd555[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Fri Apr 2 01:55:56 2021 +0700
+
+    week4-ass1-v0
+
+[33mcommit aeede0a08400991d8d34ab9ad3bac0972395130f[m
+Merge: 3c41dfd e5896cb
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Wed Mar 31 20:12:51 2021 +0700
+
+    haha
+
+[33mcommit 3c41dfd512cabba01e3deeecd65a4cb8b651a07c[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Wed Mar 31 20:07:27 2021 +0700
+
+    haha
+
+[33mcommit e5896cb7e96fc2f8ceff3ce921dea37e14d6e5da[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Mon Mar 29 20:28:58 2021 +0700
+
+    update
+
+[33mcommit db04475de73ebfec7db73bc5f572c5d1a4fb7a6f[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Mon Mar 29 13:36:40 2021 +0700
+
+    update
+
+[33mcommit 1f454c4d588a395e60895011ac1144d0f8101b04[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Mon Mar 29 11:28:27 2021 +0700
+
+    update
+
+[33mcommit 933c20f4c83cc191af2b8d429ea82538a399151f[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Sun Mar 28 23:26:46 2021 +0700
+
+    update
+
+[33mcommit a8566842a9d386122c7844f2b7061524e597cb39[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Sun Mar 28 18:43:45 2021 +0700
+
+    update
+
+[33mcommit 17ad6a4f318d64142c30a99c7f44b0cd08029701[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Sun Mar 28 14:04:50 2021 +0700
+
+    update
+
+[33mcommit 527a7da966afdeb47f03a864ada28ea7debb9d50[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Sat Mar 27 22:19:27 2021 +0700
+
+    update
+
+[33mcommit a3eb2af811c248d3389af1b3893182750becfb20[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Sat Mar 20 19:43:51 2021 +0700
+
+    update
+
+[33mcommit 58abc6d1480db4ac6302766bef686657f4f8a874[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Sat Mar 20 19:41:29 2021 +0700
+
+    update
+
+[33mcommit 66c874a39a6b30f07c0d2cac9337f438c7cb554a[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Sat Mar 20 12:55:43 2021 +0700
+
+    update
+
+[33mcommit 540a83bc2416886f3eea25c982fe38ec722990ae[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Fri Mar 19 22:03:49 2021 +0700
+
+    update
+
+[33mcommit cc45900a07281ed8c3d7c4cb15d3b698a20f1249[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Fri Mar 19 12:55:53 2021 +0700
+
+    update
+
+[33mcommit b0410a95fa78143f584964c3f3564b2b5c6951b4[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Fri Mar 19 00:48:46 2021 +0700
+
+    update
+
+[33mcommit 7f6bc970c0e66a9b696910b9d11fb33b15ea7999[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Fri Mar 19 00:45:44 2021 +0700
+
+    update
+
+[33mcommit 0d09a89ba6eb2a63848317eb75c08fe77137017d[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Fri Mar 19 00:42:52 2021 +0700
+
+    update
+
+[33mcommit eefbe1190802ecbcf7aedef2441741c88072de3f[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Tue Mar 16 00:59:19 2021 +0700
+
+    update
+
+[33mcommit 06af9f2ad3acdf753a2e619066076377fa75ec2d[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Tue Mar 16 00:56:58 2021 +0700
+
+    update
+
+[33mcommit d8edc1224a63ea8b362370ea20f2cc96536c3cb3[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Mon Mar 15 19:35:50 2021 +0700
+
+    update
+
+[33mcommit f7164dc99a4a7c28d961a6d6a4b0d3bdb02b7b38[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Mon Mar 15 19:31:10 2021 +0700
+
+    update
+
+[33mcommit 7d8a740e8724f2d1ac2d2f976b0341cbe7827f99[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Mon Mar 15 19:25:20 2021 +0700
+
+    update
+
+[33mcommit d22d57c3cfba0dbc4d218daed1fb8995d50d615c[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Mon Mar 15 19:17:30 2021 +0700
+
+    update
+
+[33mcommit 96073154a38f318d233985ab5903aa5e73cd40b4[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Mon Mar 15 12:09:12 2021 +0700
+
+    update
+
+[33mcommit bb5a857028645c5bdd23975048aaa3529a024c4e[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Sun Mar 14 22:59:13 2021 +0700
+
+    week2-ass1-ver0
+
+[33mcommit 0df95d1f24ef3ec0599346c9929a5f3151b03aed[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Sun Mar 14 19:56:41 2021 +0700
+
+    ass3-ver1
+
+[33mcommit d6c8b557e852a553f0e3d85e0643a87f379f5612[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Sun Mar 14 19:48:50 2021 +0700
+
+    week1-ass3-ver0
+
+[33mcommit e1d71a92f726bb02043ca964f56b06949152c1a9[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Sun Mar 14 00:35:15 2021 +0700
+
+    ass3-ver1
+
+[33mcommit 22913be0adcd298423fb4ee1386b911ce2e6135c[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Sun Mar 14 00:32:05 2021 +0700
+
+    ass3-ver0
+
+[33mcommit c90217c04ca3025686fa76a316330315b765f407[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Sat Mar 13 23:16:57 2021 +0700
+
+    ass2-ver1
+
+[33mcommit 1868888f2d8d0291b46895d199a778ca0e1cca11[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Sat Mar 13 23:11:49 2021 +0700
+
+    ass2-ver0
+
+[33mcommit f941db510cd08257e6cbd329542831699c9631e3[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Sat Mar 13 21:05:29 2021 +0700
+
+    re-organize folders
+
+[33mcommit e81254fd2a57cd3bc83d7c2743a8d4be4441c174[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Tue Mar 9 15:11:39 2021 +0700
+
+    assginment commit
+
+[33mcommit 1a48782b109b2f28a14fe3a86df756e06d4fc82f[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Mon Mar 8 14:02:33 2021 +0700
+
+    test br0z
+
+[33mcommit 9e50724a7114b03693d3e8f23e4592a9c469f1bb[m
+Author: Thien Go <58649187+goriummaximum@users.noreply.github.com>
+Date:   Mon Mar 8 13:55:42 2021 +0700
+
+    Create test.txt
+
+[33mcommit bca007f049cf37550d730ac73f45b5c7dc4f2246[m
+Author: thiengo <long.hothiengo@hcmut.edu.vn>
+Date:   Mon Mar 8 13:52:41 2021 +0700
+
+    first commit
