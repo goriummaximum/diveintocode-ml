@@ -44,7 +44,7 @@ Detect a traffic sign faraway
 ### Note:  
 please run the first code block exists in any `.ipynb` file for the first time to install essential libraries.  
 
-## Others
+## Slides
 Please read `mef2010_HoHoangThien_Long.pdf` as a report for more explaination.  
 
 
