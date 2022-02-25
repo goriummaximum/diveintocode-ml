@@ -1,1 +1,1 @@
-weights
+download the weights file (.weights)  [here](https://drive.google.com/file/d/1Ov8lZA5FLlnqZWKfnuiHUVxreLIMh0n3/view?usp=sharing).  

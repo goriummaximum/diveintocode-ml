@@ -1,1 +1,1 @@
-za_traffic_2020
+download dataset (.zip) [here](https://drive.google.com/file/d/17BFYn077nh9wuhwnErg6GOPKVgPWY9Nx/view?usp=sharing). 
