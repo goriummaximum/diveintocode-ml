@@ -1,7 +1,7 @@
 #  Traffic sign detection on real Vietnamese streets
 
 ## What?
-My graduation assignment of class ML2010 of Dive Into Code 2021 - 2022. The project is the effort to train the computer to be able to detect traffic sign on Vietnamese street via images (done), video (in the future), webcam (in the future), by using YOLOv4 with the implementation of Darknet proposed by AlexeyAB and Pjreddie. In addition, thanks to the existed well-made traffic sign dataset from Zalo AI challenge 2020, the training process is much easier and faster, and the final mAP@0.5 is 73.64% on self-made validation set, the speed of ~13FPS on Nvidia Tesla T4.
+My graduation assignment of class mef2103 of Dive Into Code 2021 - 2022. The project is the effort to train the computer to be able to detect traffic sign on Vietnamese street via images (done), video (in the future), webcam (in the future), by using YOLOv4 with the implementation of Darknet proposed by AlexeyAB and Pjreddie. In addition, thanks to the existed well-made traffic sign dataset from Zalo AI challenge 2020, the training process is much easier and faster, and the final mAP@0.5 is 73.64% on self-made validation set, the speed of ~13FPS on Nvidia Tesla T4.
 
 ## Why?
 To graduate from the course. To help drivers to detect traffic sign, protect themselves from accidents, danger, and police... as well as the traffic in a whole from unintentional loss of focus on a long run ride, which makes them miss the traffic signs ahead, ...and myself...
@@ -45,6 +45,6 @@ Detect a traffic sign faraway
 please run the first code block exists in any `.ipynb` file for the first time to install essential libraries.  
 
 ## Slides
-Please read `mef2010_HoHoangThien_Long.pdf` as a report for more explaination.  
+Please read `mef2103_HoHoangThien_Long.pdf` as a report for more explaination.  
 
 
