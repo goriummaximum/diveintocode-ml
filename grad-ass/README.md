@@ -42,7 +42,7 @@ Detect a traffic sign faraway
 14. run all code blocks in `test.ipynb` for testing.  
 15. if you want to predict custom images, go to `predict an image` code block in `test.ipynb` and change the path to your image.  
 ### Note:  
-please run the first code block exists in every `.ipynb` file at least 1 time to install essential libraries.  
+please run the first code block exists in any `.ipynb` file for the first time to install essential libraries.  
 
 ## Others
 Please read `mef2010_HoHoangThien_Long.pdf` as a report for more explaination.  
